@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nome": "Antonio",
+        "eta": 18,
+        "skill": [
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Anna",
+        "eta": 21,
+        "skill": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Mario",
+        "eta": 41,
+        "skill": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "SASS"
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Luigi",
+        "eta": 32,
+        "skill": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "SASS",
+            "Python"
+        ]
+    }
+]
